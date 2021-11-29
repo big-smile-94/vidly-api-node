@@ -1,3 +1,10 @@
+# Heroku 
+
+https://damp-lowlands-24655.herokuapp.com
+https://damp-lowlands-24655.herokuapp.com/api/movies
+https://damp-lowlands-24655.herokuapp.com/api/genres
+
+
 ## Introduction
 
 This project is the backend of Vidly, an imaginary video rental app. I've used Vidly as an example in several of my online programming courses, such as:
