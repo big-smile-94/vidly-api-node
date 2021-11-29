@@ -4,6 +4,8 @@ https://damp-lowlands-24655.herokuapp.com
 https://damp-lowlands-24655.herokuapp.com/api/movies
 https://damp-lowlands-24655.herokuapp.com/api/genres
 
+mongodb at: https://cloud.mongodb.com/
+api at: https://dashboard.heroku.com/
 
 ## Introduction
 
